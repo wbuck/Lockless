@@ -1,7 +1,0 @@
-﻿  Lock.cpp
-  Test.cpp
-     Creating library C:\Users\wbuckley.DSI\source\repos\Lockless\x64\Release\Test.lib and object C:\Users\wbuckley.DSI\source\repos\Lockless\x64\Release\Test.exp
-  Generating code
-  Incremental LTCG not compatible with Address Sanitizer, build without incremental LTCG.
-  Finished generating code
-  Test.vcxproj -> C:\Users\wbuckley.DSI\source\repos\Lockless\x64\Release\Test.exe
