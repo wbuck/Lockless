@@ -1,0 +1,5 @@
+﻿  Test.cpp
+LINK : warning LNK4300: ignoring '/INCREMENTAL' because input module contains ASAN metadata
+Test.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library C:\Users\wbuckley.DSI\source\repos\Lockless\x64\Debug\Test.lib and object C:\Users\wbuckley.DSI\source\repos\Lockless\x64\Debug\Test.exp
+  Test.vcxproj -> C:\Users\wbuckley.DSI\source\repos\Lockless\x64\Debug\Test.exe
